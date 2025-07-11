@@ -5,9 +5,9 @@ body{
 }
 .nav{
     background-image: url(../Assets/Hero-bg.png);
-    width: 1458px;
-    height: 600px;
-}
+    /* /* width: 1458px;
+    height: 600px; */
+} 
 
 .btn-primary{
     background-color: #4E47FF;
@@ -46,9 +46,9 @@ body{
 
 .web-flow-head{
     margin:10px 150px;
-    max-width:1140px;
+    /* max-width:1140px;
     max-height: 328px;
-   
+    */
    
     
 }
@@ -65,8 +65,8 @@ body{
 
 .over-flow-img{
     border-radius: 20px;
-    width: 403px;
-    height: 328px;
+    /* width: 403px;
+    height: 328px; */
 }
 
 
@@ -75,8 +75,8 @@ body{
 
 .productive-user{
     margin:10px 150px;
-    width:1140px;
-    height: 328px;
+    /* width:1140px;
+    height: 328px; */
     background-color: #8a88c76d;
     border-radius: 40px;
 
@@ -148,16 +148,16 @@ body{
     gap: 25px;
     align-items: center;
     justify-content: space-around;
-    width: 1140px;
-    height: 342px;
+    /* width: 1140px;
+    height: 342px; */
     margin:10px 150px;
    
 }
 
 /* ----------------------------------------------- */
 .ready-to-focus{
-    height: 696px;
-    width: 1140px;
+    /* height: 696px;
+    width: 1140px; */
     background-color: rgb(241, 238, 234);
     border-radius: 40px;
     /* border:2px solid red; */
@@ -205,9 +205,9 @@ div input{
     justify-content: space-around;
     align-items: center;
     /* margin-top: 100px; */
-
+/* 
       height: 696px;
-    width: 1140px;
+    width: 1140px; */
     /* border:2px solid red; */
     margin:10px 150px;
 

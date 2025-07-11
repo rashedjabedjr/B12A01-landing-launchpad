@@ -1,0 +1,226 @@
+body{
+    margin: 0;
+    padding:0 ;
+}
+.nav{
+    background-image: url(../Assets/Hero-bg.png);
+    width: 1458px;
+    height: 600px;
+}
+
+.btn-primary{
+    background-color: #4E47FF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+   
+}
+.btn-primary:hover{
+    background-color: coral;
+}
+.btn-second{
+    margin: 50px;
+}
+
+.logo{
+    color: #4E47FF;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.nav-hedder{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:0px 150px 0px 150px;
+}
+
+.nav-head{
+    text-align: center;
+    margin-top: 250px;
+}
+
+
+/* ***************************** */
+
+.web-flow-head{
+    margin:10px 150px;
+    max-width:1140px;
+    max-height: 328px;
+   
+   
+    
+}
+.web-flow{
+    display: flex;
+    /* padding-left: 200px; */
+    /* gap: 200px; */
+    margin-top: 50px;
+    align-items: center;
+    justify-content: space-between;
+    
+ 
+}
+
+.over-flow-img{
+    border-radius: 20px;
+    width: 403px;
+    height: 328px;
+}
+
+
+
+/* -------------------------------------------- */
+
+.productive-user{
+    margin:10px 150px;
+    width:1140px;
+    height: 328px;
+    background-color: #8a88c76d;
+    border-radius: 40px;
+
+}
+
+.productive-user-name{
+    text-align: center;
+    color: #252432;
+    font-size: 38px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.user{
+    color:#4E47FF;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.productive-user-name-content{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.user1{
+    text-align: center;
+    font-size: 28px;
+    position: relative;
+    bottom: 55px;
+    left: -10px;
+}
+
+.user2{
+    align-items: center;
+
+}
+
+
+/* --------------------------------------------------- */
+.users{
+    text-align: center;
+}
+
+.revaner-contaient{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+    
+}
+.users-say{
+    /* border: 2px solid red; */
+    padding: 50px;
+     background-color: aliceblue;
+     border-radius: 10px;
+}
+
+.date{
+    position: relative;
+    bottom: 13px;
+}
+
+.avater{
+    border-radius: 50%;
+}
+
+.user-say-contant{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: space-around;
+    width: 1140px;
+    height: 342px;
+    margin:10px 150px;
+   
+}
+
+/* ----------------------------------------------- */
+.ready-to-focus{
+    height: 696px;
+    width: 1140px;
+    background-color: rgb(241, 238, 234);
+    border-radius: 40px;
+    /* border:2px solid red; */
+    margin:10px 150px;
+}
+
+.ready-to-focus-containt{
+    text-align: center;
+    padding: 50px;
+}
+
+.wc-img{
+    border-radius: 40px;
+}
+
+
+/* ----------------------------------- */
+/* .input-head{
+       height: 696px;
+    width: 1140px;
+    /* border:2px solid red; */
+    /* margin:10px 120px;
+} */ */
+
+
+
+
+
+div input{
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.msg-text{
+    padding: 10px 200px 80px 15px;
+}
+
+.input-head{
+    display: flex;
+    align-items: center;
+}
+
+#get-in-tuch{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* margin-top: 100px; */
+
+      height: 696px;
+    width: 1140px;
+    /* border:2px solid red; */
+    margin:10px 150px;
+
+}
+
+.tuch{
+    font-size: 97px;
+}
+
+.input-field{
+    padding: 10px 215px 5px 0px ;
+}
+
+.btn-last{
+  padding: 10px 150px;
+  
+}
